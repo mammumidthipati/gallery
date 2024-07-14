@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+   background-image: url('https://t3.ftcdn.net/jpg/06/61/81/96/360_F_661819609_T2ummdNNUT7Zz0l4DaM3NABjha0tOF1J.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.adding{ 
+   height: 80%;
+    width: 600px;
+    margin-left: 550px;
+    padding: 30px;
+    border-radius: 35px;
+    background-color: plum ;   
+}
+h1{
+    color: purple;
+    text-decoration: underline;
+    padding: 10px;
+}
+h3{
+    color: black;
+    font-size: 140%;
+}
+.nav{
+    padding: 5px;
+    padding-left: 55%;
+    font-weight: 200;
+    margin: 25px;
+}
+a{
+    padding: 10px;
+    font-size: 140%;
+}
